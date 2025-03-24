@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#648070",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "语言课学习系统首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
